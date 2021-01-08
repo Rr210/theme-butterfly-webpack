@@ -1,5 +1,6 @@
 ## 说明
-此仓库为[小康博客](https://www.antmoe.com/)魔改样式仓库.
+此方法来自[小康博客](https://www.antmoe.com/)感谢大佬
+我的博客站点[Harryの心阁](https://u.mr90.top)
 ## 使用
 下载此仓库到本地
 1. 安装扩展包
